@@ -1,6 +1,8 @@
-# # string concatenation (aka how to put strings together)
-# # suppose we want to create a string that says "subscribe to _____ "
-# # a few ways to do this
+# string concatenation (aka how to put strings together)
+# suppose we want to create a string that says "subscribe to _____ "
+# a few ways to do this
+
+# youtuber="Anubhav"
 # print("subscribe to " + youtuber)
 # print("subscribe to {}".format(youtuber))
 # print(f"subscribe to {youtuber}")
